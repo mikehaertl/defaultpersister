@@ -1,0 +1,17 @@
+{
+    "name": "mikehaertl/defaultpersister",
+    "description": "Yii extension to save and restore model values in user session.",
+    "keywords": ["yii","model","behavior"],
+    "homepage": "https://github.com/mikehaertl/defaultpersister",
+    "type": "yii-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Haertl",
+            "email": "haertl.mike@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    }
+}
